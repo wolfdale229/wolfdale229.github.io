@@ -1,3 +1,2 @@
-## Welcome to GitHub Pages
-
+### Name  : `Omefe Chika`
 Check out my [**`100daysofmlcodes`**](LOG.md)
