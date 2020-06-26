@@ -1,4 +1,4 @@
-#About
+<h1>About</h1>
 
 ### The is a generic about page 
 `I make YouTube videos and write about the crossover of health, technology and art.
