@@ -580,7 +580,11 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **`Today's Progress`** : Worked on the titanic dataset, completing decision trees.
 
-## Day 68 : 25-06-2020
+## Day 68 : 26-06-2020
+
+**`Today's Progress`** : more pandas exercises
+
+## Day 69 : 26-06-2020
 
 **`Today's Progree`** : working through the second lecture, working on some pandas exercise.
        
