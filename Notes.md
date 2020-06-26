@@ -32,7 +32,7 @@ An example of supervised learning is classifying (name) each fruit in a basket o
 
 #### Reinforcement Learning : 
 * "The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return. It must then learn by itself what is the best strategy, called a policy, to get the most reward over time. A policy defines what action the agent should choose when it is in a given situation".
-![image.png](attachment:image.png)
+![image.png](reinforced.jpeg)
 (image curtesy Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron)
 
 ## Uses of Machine Learning:
