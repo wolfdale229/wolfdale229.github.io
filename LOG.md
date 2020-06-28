@@ -584,10 +584,13 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **`Today's Progress`** : more pandas exercises
 
-## Day 70 : 26-06-2020
+## Day 70 : 27-06-2020
 
 **`Today's Progree`** : working through the second lecture, working on some pandas exercise, explored the California housing data set.
        
+## Day 71 : 28-06-2020
+
+**`Today's Progress`** : Building a regression model using the claifornia housing dataset.
        
        
        
