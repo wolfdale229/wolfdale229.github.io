@@ -3,7 +3,7 @@ This is a write-up about Machine Learning for beginners, who have basic python p
 
 One of the easiest ways I got into the habit of learning about machine learning related concepts and building models, was setting out 2-3 hours everyday. This can also be combined with coding everyday for the next 100 days. Here is a pattern you can follow [#100daysofmlcodes](LOG.md)
 
----
+<b><strong><hr></hr></strong></b>
 ## Into the big scary void. 
 ## Date : 20-06-2020
 ## Topics
@@ -47,7 +47,7 @@ An example of supervised learning is classifying (name) each fruit in a basket o
     6. Detecting credit card fraud
     7. Recommending a product that a client may be interested in, based on past purchases
 
----    
+<b><strong><hr></hr></strong></b>
 ## Making Tea
 ## Date :
 ## Topics : Resources for learning machine learning for beginners.
