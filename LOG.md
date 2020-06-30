@@ -590,9 +590,15 @@ NOTE : I would re-read this topic again and python machine learning book would b
        
 ## Day 71 : 28-06-2020
 
-**`Today's Progress`** : Building a regression model using the claifornia housing dataset.
+**`Today's Progress`** : Building a regression model using the california housing dataset.
        
-       
+## Day 72 : 29-06-2020
+
+**`Today's Progress`** : learning how to scrape websites.
+
+## Day 73 : 30-06-2020
+
+**`Today's Progress`** : Watching the 3rd lecture video, pandas execise.
        
        
        

@@ -1,7 +1,9 @@
 # Introduction to Machine Learning
-This is a write-up about Machine Learning for beginners, who have basic programming skills (preferably python) and are not so good at mathematics (first year college knowledge). It would show you what you need to get started and resources to use. It is also a diary of what i have learnt so far and rojects that implemented using Machine Learning. 
+This is a write-up about Machine Learning for beginners, who have basic python programming skill (variables, function, data types).It would show you what you need to get started and resources to use. It is also a diary of what i have learnt so far. 
 
-## What is machine learning 
+One of the easiest ways I got into the habit of learning about machine learning related concepts and building models, was setting out 2-3 hours everyday. This can also be combined with coding everyday for the next 100 days. Here is a pattern you can follow [#100daysofmlcodes](LOG.md)
+
+## Into the big scary void. 
 ## Date : 20-06-2020
 ## Topics
     1. What is machine learning 
@@ -44,4 +46,6 @@ An example of supervised learning is classifying (name) each fruit in a basket o
     6. Detecting credit card fraud
     7. Recommending a product that a client may be interested in, based on past purchases
     
-#  Linear Models
+## Making Tea
+## Date :
+## Topics : Resources for learning machine learning for beginners.
