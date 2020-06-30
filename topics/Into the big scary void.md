@@ -1,4 +1,3 @@
-# Into the big scary void. 
 ## Date : 20-06-2020
 ## Topics 
     1. What is machine learning 
