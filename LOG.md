@@ -523,13 +523,13 @@ NOTE : I would re-read this topic again and python machine learning book would b
 ## Day 58 : 13-06-2020
 
 **`Today's Progress`** : Reading about machine learning in general and what i jotted down from the lecture video
-> 
+ 
     1. Working on the iris dataset
        
 ## Day 59 : 15-06-2020
 
 **`Today's Progress`** 
->
+
     1. What is supervised learning
     2. Types of supervised learning 
     3. Generalization, Overfitting, and Underfitting
@@ -538,19 +538,19 @@ NOTE : I would re-read this topic again and python machine learning book would b
 ## Day 60 : 16-06-2020
 
 **`Today's Progress`** 
->
+
     1. Watching and working through lessons 1 of the fastai lecture
        
 ## Day 61 : 17-06-2020
 
 **`Today's Progress`**
-> 
+ 
     1. Reading about Linear Models
        
 ## Day 62 : 18-06-2020
 
-**`Today's Progress`** : I would take a break, reinstall anaconda and set up fastai.v0.7 and fastai.v3 environmaents properly. Shit seems to be messed up.
->
+**`Today's Progress`** : 
+
     1. Reinstall anaconda and extensions
     2. Create a conda environment for fastai v0.1 (Introduction to machine learning)
     3. Create a conda envirment for fastai v3
@@ -562,47 +562,89 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 ## Day 63 : 20-06-2020
 
-**`Today's Progress`** : Refreshing my python knowledge 
+**`Today's Progress`** : 
+
+    1. Refreshing my python knowledge 
 
 ## Day 64 : 21-06-2020
 
-**`Today's Progress`** : Watching lecture 2 of the fastai introductfion to machine learning course, work on some pandas exercises and keep refreshing my python skills
+**`Today's Progress`** : 
+
+    1. Watching lecture 2 of the fastai introductfion to machine learning course.
+    2. work on some pandas exercises.
        
 ## Day 65 : 22-06-2020
 
-**`Today's Progress`** : Learning about decision trees, work on some pandas execises and learning regular expression in python 
+**`Today's Progress`** : 
+
+    1. Learning about decision trees
+    2. work on some pandas execises  
        
 ## Day 66 : 23-06-2020
 
-**`Today's Progress`** : Doing some Exploratory data analysis, pandas exerice, building a random forest model using the fastai library, complete the Decision tree reading.
+**`Today's Progress`** : 
+
+    1. Doing some Exploratory data analysis
+    2. pandas exerice
+    3. building a random forest model using the fastai library
+    4. complete the Decision tree reading.
 
 ## Day 67 : 24-06-2020
 
-**`Today's Progress`** : Worked on the titanic dataset, completing decision trees.
+**`Today's Progress`** : 
+
+    1. Worked on the titanic dataset
+    2. completing decision trees.
 
 ## Day 68 : 26-06-2020
 
-**`Today's Progress`** : more pandas exercises
+**`Today's Progress`** :
+    
+    1.more pandas exercises
 
 ## Day 70 : 27-06-2020
 
-**`Today's Progree`** : working through the second lecture, working on some pandas exercise, explored the California housing data set.
+**`Today's Progree`** : 
+
+    1. working through the second lecture
+    2. working on some pandas exercise
+    3. explored the California housing data set.
        
 ## Day 71 : 28-06-2020
 
-**`Today's Progress`** : Building a regression model using the california housing dataset.
+**`Today's Progress`** : 
+
+    1. Building a regression model using the california housing dataset.
        
 ## Day 72 : 29-06-2020
 
-**`Today's Progress`** : learning how to scrape websites.
+**`Today's Progress`** : 
+
+    1. learning how to scrape websites.
 
 ## Day 73 : 30-06-2020
 
-**`Today's Progress`** : Watching the 3rd lecture video, pandas execise.
+**`Today's Progress`** : 
+
+    1. Watching the 3rd lecture video.
        
-       
-       
-       
+## Day 74 : 1-07-2020
+
+**`Today's Progress`** : 
+
+    1. pandas exercise.
+    2. finding the important features in the california housing dataset.
+    3. read a little.
+
+ ## Day 75 :2-07-2020
+ **`Today's Progress`** : 
+ 	
+	1. Read up on a machine learning algorithm.
+	2. Practice pandas.
+
+## Day 77-78 : 5/6-07-2020
+**`Today's Progress`**:
+	1. Spending this weekend learning about SQL using sqlite
        
        
         
