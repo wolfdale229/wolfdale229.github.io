@@ -636,13 +636,15 @@ NOTE : I would re-read this topic again and python machine learning book would b
     2. finding the important features in the california housing dataset.
     3. read a little.
 
- ## Day 75 :2-07-2020
- **`Today's Progress`** : 
+## Day 75 :2-07-2020
+
+**`Today's Progress`** : 
  	
 	1. Read up on a machine learning algorithm.
 	2. Practice pandas.
 
 ## Day 77-78 : 5/6-07-2020
+
 **`Today's Progress`**:
 	1. Spending this weekend learning about SQL using sqlite
        
