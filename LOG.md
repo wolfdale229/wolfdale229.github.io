@@ -643,15 +643,19 @@ NOTE : I would re-read this topic again and python machine learning book would b
 	1. Read up on a machine learning algorithm.
 	2. Practice pandas.
 
-## Day 77-78 : 5/6-07-2020
+## Day 78-79 : 5/6-07-2020
 
 **`Today's Progress`**:
+
 	1. Spending this weekend learning about SQL using sqlite
-       
-       
-        
-        
-        
-        
-        
-        
+	2. practiced some pandas
+
+## Day 80 : 7-07-2020
+
+**`Today's Progress`** :
+
+	1. Workign through the third introduction to machine learning lecture.
+
+	2. Regression model on the california housing data set using fastai.
+	3. pandas exercise.
+	4. Neural Network (Deep Learning).
