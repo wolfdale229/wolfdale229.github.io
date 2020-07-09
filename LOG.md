@@ -654,8 +654,27 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 **`Today's Progress`** :
 
-	1. Workign through the third introduction to machine learning lecture.
+	1. Working through the third introduction to machine learning lecture.
 
 	2. Regression model on the california housing data set using fastai.
 	3. pandas exercise.
 	4. Neural Network (Deep Learning).
+
+## Day 81 : 8-07-2020
+
+**`Today's Progress`** :
+
+	1. Exploratory analysis of the Titanic data set
+
+## Day 82 : 9-07-2020
+
+**`Today's Progress`** :
+	1. refresh my python knowledge
+
+
+
+
+
+
+
+
