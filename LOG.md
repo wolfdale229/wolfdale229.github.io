@@ -673,13 +673,17 @@ NOTE : I would re-read this topic again and python machine learning book would b
 	1. refresh my python knowledge
 	2. Went through the third lecture again
 	
-## Day 83 : 10-07-2020
+## Day 84 : 11-07-2020
 
 **`Today's Progress`** :
 
 	1. Learnt how to scrape websites and storing the informations
 
+## Day 85 : 12-07-2020
 
+**` Today's Progress`** : 
+	
+	1. watching lecture 4 of fastai introduction to machine learning
 
 
 
