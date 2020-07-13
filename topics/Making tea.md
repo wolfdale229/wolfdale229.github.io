@@ -1,6 +1,6 @@
 # Making tea
 ## Date : 13-07-2020
-## Topics : Resources for machine learning for beginners.
+## Topics : Machine learning resources for beginners.
 
 Half way through my **#100daysofmlcodes** and  after going through several posts on how to learn machine learning, i have come up with a list of books and tutorials that would benefit anyone interested in machine learning and how to develop machine learning softwares. This list assumes you are familiar with python and are willing to learn libraries like numpy, pandas and matplotlib.
 
