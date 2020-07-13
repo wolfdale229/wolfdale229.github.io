@@ -48,7 +48,7 @@ Machine learning, the use of data and algorithms to predict future occurances is
 >
 	1. Deep learning for coders (fastai).
 	2. MIT introduction to deep learning.
-        3. Udacity deep learning with Tensorflow.
+	3. Udacity deep learning with Tensorflow.
 
 So after going through all this would I be a machine learning superstar? as with art of tea making, practice makes perfection, try your hands on more data sets, create something new, contribute to open source and be open to changes.
 
