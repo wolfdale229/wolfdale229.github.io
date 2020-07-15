@@ -684,9 +684,6 @@ NOTE : I would re-read this topic again and python machine learning book would b
 **` Today's Progress`** : 
 	
 	1. watching lecture 4 of fastai introduction to machine learning
-    
-    
-## I am stopping this #100daysmlcode series and starting a new one, i feel like i am not learning enough.
 
 
 
