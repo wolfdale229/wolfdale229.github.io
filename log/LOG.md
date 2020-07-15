@@ -686,5 +686,4 @@ NOTE : I would re-read this topic again and python machine learning book would b
 	1. watching lecture 4 of fastai introduction to machine learning
 
 
-
-
+## I am stoping this #100daysofmlcode series and starting a new one, not learning enough with this approach.
