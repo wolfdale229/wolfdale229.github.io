@@ -21,4 +21,7 @@ The following resources would be used through out the 100 days:
 
 - 2. [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 
+## Day 1 : 15-07-2020
+
+**Today's report** : I did an overview of what machine learning is, what it is used for, machine learning workflow and also an overview of statistics.
 
