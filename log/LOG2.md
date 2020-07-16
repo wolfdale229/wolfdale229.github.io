@@ -25,3 +25,6 @@ The following resources would be used through out the 100 days:
 
 **Today's report** : I did an overview of what machine learning is, what it is used for, machine learning workflow and also an overview of statistics.
 
+## Day 2 : 16-07-2020
+
+**Today's Progress** : Learning about data collection processes, how the size relates to the models accuracy.
