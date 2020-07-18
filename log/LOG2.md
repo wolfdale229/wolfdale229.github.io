@@ -10,7 +10,7 @@ The following resources would be used through out the 100 days:
 
 **`Books`**
 - 1. Introduction to statistical learning.
-- 2. Real world machine learning
+- 2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 **`Course`**
 - 1. [Introduction to machine learning](https://www.fast.ai/)(fastai)
@@ -28,3 +28,11 @@ The following resources would be used through out the 100 days:
 ## Day 2 : 16-07-2020
 
 **Today's Progress** : Learning about data collection processes, how the size relates to the models accuracy.
+
+## Day 3 : 17-07-2020
+
+**Today's Progress** : End-to-End project of the california housing data set
+
+## Day 4 : 18-07-2020
+
+**Today's Progress** : still working on the End-to-End project of the california housing data set
