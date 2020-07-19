@@ -35,4 +35,8 @@ The following resources would be used through out the 100 days:
 
 ## Day 4 : 18-07-2020
 
-**Today's Progress** : still working on the End-to-End project of the california housing data set
+**Today's Progress** : still working on the End-to-End project of the california housing data set, creating test set, preprocessing the data eg filling in missing values, working on categorical features etc.
+
+## Day 5 : 19-07-2020
+
+**Today's Progress** : End-to-End project; model building and evaluation 
