@@ -56,8 +56,6 @@
 
 - 2. Hands-On Machine Learning with Scikit-Learn, Keras  and TensorFlow . 
     
-2. **`COURSES`** :
-   
-- 1. MIT introduction to deep learning.
-
+2. **`COURSES`** :  
+- 1. MIT introduction to deep learning
 - 2. Udacity deep learning with Tensorflow.
