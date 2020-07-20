@@ -61,3 +61,7 @@
 - 1. MIT introduction to deep learning
 
 - 2. Udacity deep learning with Tensorflow.
+
+
+
+[back](README.md)

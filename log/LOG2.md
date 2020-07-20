@@ -45,3 +45,6 @@ The following resources would be used through out the 100 days:
 ## Day 6 : 20-07-2020
 
 **Today's Progress** : Working on the chapter's exercises
+
+
+[back](../README.MD)

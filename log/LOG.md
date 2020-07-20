@@ -687,3 +687,7 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 
 ## I am stoping this #100daysofmlcode series and starting a new one, not learning enough with this approach.
+
+
+
+[back](../README.MD)
