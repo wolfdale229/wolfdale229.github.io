@@ -4,5 +4,5 @@ This page is a medium to share my machine learning/deep learning projects, littl
 
 If you would like to learn more about machine learning in a simplified way check out my [Blog Post](Notes.md). 
 
-If you are ever wondering how to get into making machine learning/deep learning softwares, here is a framework i have created for myself (Note : it assumes some familarity with python programming language and dedication to read and practice every material presented)[ml/dl framework](framework.md)
+If you are ever wondering how to get into making machine learning/deep learning softwares, here is a framework i have created for myself (Note : it assumes some familarity with python programming language and dedication to read and practice every material presented) [ml/dl framework](framework.md)
 
