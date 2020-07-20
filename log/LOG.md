@@ -690,4 +690,4 @@ NOTE : I would re-read this topic again and python machine learning book would b
 
 
 
-[back](../README.MD)
+[back]('../README.md')

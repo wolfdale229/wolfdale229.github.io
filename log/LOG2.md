@@ -47,4 +47,4 @@ The following resources would be used through out the 100 days:
 **Today's Progress** : Working on the chapter's exercises
 
 
-[back](../README.MD)
+[back]('../README.md')

@@ -52,3 +52,5 @@ Machine learning, the use of data and algorithms to predict future occurances is
 
 So after going through all this would I be a machine learning superstar? as with art of tea making, practice makes perfection, try your hands on more data sets, create something new, contribute to open source and be open to changes.
 
+
+[back]('../Notes.md')

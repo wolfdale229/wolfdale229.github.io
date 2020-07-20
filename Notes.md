@@ -8,4 +8,4 @@ One of the easiest ways I got into the habit of learning about machine learning 
 2. [Making tea](topics/Making tea.md)
 3. [Mirror room](topic/Mirror room)
 
-[back](README.MD)
+[back](README.md)

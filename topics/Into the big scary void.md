@@ -40,3 +40,5 @@ An example of supervised learning is classifying (name) each fruit in a basket o
     5. Making your app react to voice commands
     6. Detecting credit card fraud
     7. Recommending a product that a client may be interested in, based on past purchases
+
+[back]('../Notes.md')
