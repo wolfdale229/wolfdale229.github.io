@@ -10,6 +10,7 @@ The following resources would be used through out the 100 days:
 
 **`Books`**
 - 1. Introduction to statistical learning.
+
 - 2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 **`Course`**
@@ -40,3 +41,7 @@ The following resources would be used through out the 100 days:
 ## Day 5 : 19-07-2020
 
 **Today's Progress** : End-to-End project; model building and evaluation 
+
+## Day 6 : 20-07-2020
+
+**Today's Progress** : Working on the chapter's exercises
