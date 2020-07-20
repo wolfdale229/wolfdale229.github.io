@@ -44,7 +44,19 @@ The following resources would be used through out the 100 days:
 
 ## Day 6 : 20-07-2020
 
-**Today's Progress** : Working on the chapter's exercises
+**Today's Progress** : Working on the chapter's exercises, read about what statistical learning is all about(ISL)
+
+## Day 7 : 21-07-202
+
+**Today's Progress** : Learing about classification 
+
+
+
+
+
+
+
+
 
 
 [back](../README.md)
