@@ -46,13 +46,13 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Working on the chapter's exercises, read about what statistical learning is all about(ISL)
 
-## Day 7 : 21-07-202
+## Day 7 : 21-07-2020
 
-**Today's Progress** : Learing about classification 
+**Today's Progress** : Learing about classification using the MNIST dataset.
 
+## Day 8 : 22-07-2020
 
-
-
+**Today's Progress** : Classification: performance measurement
 
 
 
