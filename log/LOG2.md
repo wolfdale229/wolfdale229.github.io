@@ -54,6 +54,13 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Classification: performance measurement
 
+## Day 9 : 23-07-2020
+
+**Today's Progress** : Multiclass classification, Error Analysis
+
+## Day 10 : 24-07-2020
+
+**Today's Progress** : Exercises on classification.
 
 
 
