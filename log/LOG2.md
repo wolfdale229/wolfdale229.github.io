@@ -60,9 +60,11 @@ The following resources would be used through out the 100 days:
 
 ## Day 10 : 24-07-2020
 
-**Today's Progress** : Exercises on classification.
+**Today's Progress** : Exercises on classification (data augmentation).
 
+## Day 11 : 25-07-2020
 
+**Today's Progress** : Exercises on classification (Titanic dataset)
 
 
 
