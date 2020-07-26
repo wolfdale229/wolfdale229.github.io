@@ -66,6 +66,12 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Exercises on classification (Titanic dataset)
 
+## Day 12 : 26-07-2020
+
+**Today's Progress** : Learning about linear models (Linear regression)
+
+
+
 
 
 [back](../README.md)
