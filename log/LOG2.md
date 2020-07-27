@@ -70,6 +70,9 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Learning about linear models (Linear regression)
 
+## Day 13 : 27-07-2020
+
+**Today's Progress** : Learning about linear models (Linear regression):Batch gradient descent, stochastic gradient descent and mini-batch gradient descent
 
 
 
