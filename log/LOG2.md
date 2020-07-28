@@ -74,7 +74,9 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Learning about linear models (Linear regression):Batch gradient descent, stochastic gradient descent and mini-batch gradient descent
 
+## Day 14 : 28-07-2020
 
+**Today's Progress** Implemented the three types of gradient descent, started learning about Polynomial Regression
 
 
 [back](../README.md)
