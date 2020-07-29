@@ -78,5 +78,19 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** Implemented the three types of gradient descent, started learning about Polynomial Regression
 
+## Day 15 : 29-07-2020
+
+**Today's Progress** Logistics Regression
+
+
+
+
+
+
+
+
+
+
+
 
 [back](../README.md)
