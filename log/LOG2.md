@@ -76,11 +76,15 @@ The following resources would be used through out the 100 days:
 
 ## Day 14 : 28-07-2020
 
-**Today's Progress** Implemented the three types of gradient descent, started learning about Polynomial Regression
+**Today's Progress** : Implemented the three types of gradient descent, started learning about Polynomial Regression
 
 ## Day 15 : 29-07-2020
 
-**Today's Progress** Logistics Regression
+**Today's Progress** : Logistics Regression and softmax regression 
+
+## Day 16 : 30-07-202
+
+**Today's Progress** : Learning Support Vector Machines
 
 
 
