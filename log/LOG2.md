@@ -84,7 +84,11 @@ The following resources would be used through out the 100 days:
 
 ## Day 16 : 30-07-202
 
-**Today's Progress** : Learning Support Vector Machines
+**Today's Progress** : Learning Support Vector Machines, Linear SVM
+
+## Day 17 : 31-07-2020
+
+**Today's Progress** : Non-linear support vector machines, worked of the end of chapter exercises
 
 
 
