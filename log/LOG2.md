@@ -92,7 +92,7 @@ The following resources would be used through out the 100 days:
 
 ## Day 18 : 1-08-2020
 
-**Today's Progress** : Decision tree
+**Today's Progress** : learning Decision tree, Ensemble, Bagging
 
 
 
