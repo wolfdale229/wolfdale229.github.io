@@ -90,10 +90,9 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Non-linear support vector machines, worked of the end of chapter exercises
 
+## Day 18 : 1-08-2020
+
 **Today's Progress** : Decision tree
-
-
-
 
 
 
