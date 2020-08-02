@@ -48,7 +48,7 @@ The following resources would be used through out the 100 days:
 
 ## Day 7 : 21-07-2020
 
-**Today's Progress** : Learing about classification using the MNIST dataset.
+**Today's Progress** : Learning about classification using the MNIST dataset.
 
 ## Day 8 : 22-07-2020
 
@@ -88,13 +88,15 @@ The following resources would be used through out the 100 days:
 
 ## Day 17 : 31-07-2020
 
-**Today's Progress** : Non-linear support vector machines, worked of the end of chapter exercises
+**Today's Progress** : Non-linear support vector machines, worked on the end of chapter exercises
 
 ## Day 18 : 1-08-2020
 
 **Today's Progress** : learning Decision tree, Ensemble, Bagging
 
+## Day 19 : 2-08-2020
 
+**Today's Progress** : Learning Random Forest, Extra trees, implemented feature importance.
 
 
 
