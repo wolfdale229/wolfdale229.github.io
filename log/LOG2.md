@@ -98,7 +98,9 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Learning Random Forest, Extra trees, implemented feature importance.
 
+## Day 20 : 03-08-2020
 
+**Today's Progress** : Learning about dimensionality reduction 
 
 
 
