@@ -102,6 +102,10 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Learning about dimensionality reduction 
 
+## Day 21 : 04-08-2020
+
+**Today's progress** : Principal component analysis(PCA), randomized PCA
+
 
 
 
