@@ -106,7 +106,9 @@ The following resources would be used through out the 100 days:
 
 **Today's progress** : Principal component analysis(PCA), randomized PCA
 
+## Day 22 : 05-08-2020
 
+**Today's progress** : Dimensionality Reduction, Feature Extraction, and Manifold Learning
 
 
 [back](../README.md)
