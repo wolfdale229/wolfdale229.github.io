@@ -104,11 +104,15 @@ The following resources would be used through out the 100 days:
 
 ## Day 21 : 04-08-2020
 
-**Today's progress** : Principal component analysis(PCA), randomized PCA
+**Today's Progress** : Principal component analysis(PCA), randomized PCA
 
 ## Day 22 : 05-08-2020
 
-**Today's progress** : Dimensionality Reduction, Feature Extraction, and Manifold Learning
+**Today's Progress** : Dimensionality Reduction
+
+## Day 23 : 06-08-2020
+
+**Today's Progress** : Feature Extraction Manifold Learning
 
 
 [back](../README.md)
