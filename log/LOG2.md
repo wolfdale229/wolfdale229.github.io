@@ -112,7 +112,14 @@ The following resources would be used through out the 100 days:
 
 ## Day 23 : 06-08-2020
 
-**Today's Progress** : Feature Extraction Manifold Learning
+**Today's Progress** : Feature Extraction
+
+## Day 24 : 07-08-2020
+
+**Today's Progress** : t-SNE Manifold Learning
+
+
+
 
 
 [back](../README.md)
