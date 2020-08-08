@@ -116,7 +116,11 @@ The following resources would be used through out the 100 days:
 
 ## Day 24 : 07-08-2020
 
-**Today's Progress** : t-SNE Manifold Learning
+**Today's Progress** : t-SNE Manifold Learning, Chapter's exercises
+
+## Day 25 : 08-08-2020
+
+**Today's Progress** : Unsupervised learning, clustering
 
 
 
