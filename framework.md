@@ -10,6 +10,8 @@
 
 - 2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
+- 3. Building Machine Learning Powered Applications
+
 3. **`COURSES`** : 
     
 - 1. Introduction to machine learning (fastai).

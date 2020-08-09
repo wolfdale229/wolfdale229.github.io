@@ -122,7 +122,9 @@ The following resources would be used through out the 100 days:
 
 **Today's Progress** : Unsupervised learning, clustering
 
+## Day 26 : 09-08-2020
 
+**Today's Progress** : NYC taxi data end-to-end project
 
 
 
